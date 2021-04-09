@@ -1,4 +1,4 @@
 OK Create  (2) membuat data/memasukan data ke dalam database
 OK Read    (1) mengambil/membaca data dari database
-Update  (4) merubah data dari database
+OK Update  (4) merubah data dari database
 OK Delete  (3) menghapus data dari database
